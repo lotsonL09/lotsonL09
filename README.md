@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Piura, Peru
 * ✉️  You can contact me at [willimaca09ac@gmail.com](mailto:willimaca09ac@gmail.com)
-* 🧠  I'm learning Python and JavaScript.
+* 🧠  I'm learning Python and React.
 
 ### Skills
 
