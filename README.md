@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm William Valencia Macalupú</h1>
-<h3 align="center">I am a developer focused on Computer Vision models, backend and databases.</h3>
+<h2 align="center"> Mechanical-Electrical Engineer | Computer Vision & Deep Learning <h2>
+<h3 align="left">I am a developer focused on Computer Vision models, backend and databases.</h3>
 
-- 🌱 I’m currently learning **Pytorch**
+### Research Interests
+
+- Computer Vision
+- Video understanding and event recognition
+- Deep Learning (CNNs, Transformers)
+- Applied AI for surveillance and industrial systems
+
+### Selected Projects
+
+- **[ViViT Demo for action recognition in smartwarehouses](https://github.com/lotsonL09/ViViT_Demo)**
 
 - 💬 Ask me about **Python and databases manager**
 
