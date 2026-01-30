@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Valencia Macalupú</h1>
 <h3 align="center">I am a developer focused on Computer Vision models, backend and databases.</h3>
 
-- 🔭 I’m currently working on **Notaria-Rojas**
-
 - 🌱 I’m currently learning **Pytorch**
 
 - 💬 Ask me about **Python and databases manager**
