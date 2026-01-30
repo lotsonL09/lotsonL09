@@ -6,16 +6,31 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-jesús-valencia-macalupú-a33615265) 
 
-# 💻 Tech Stack:
+## Papelito Posts (LinkedIn)
 
-## Languages
+<div>
+  <a href="https://www.linkedin.com/posts/william-jes%C3%BAs-valencia-macalup%C3%BA-a33615265_programming-coding-storytelling-activity-7414461111510720513-Cp-x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENkIcBexIrWjf9lTclq4LlEYbfXQrWl4Y">
+    <img src="https://res.cloudinary.com/ddcb3fk7s/image/upload/v1769817057/Papelito_1_C%C3%B3mo_visualizar_mejor_el_c%C3%B3digo_que_escribes_koqrme.png" width="30%" alt="Papelito 1"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/william-jes%C3%BAs-valencia-macalup%C3%BA-a33615265_papelito-2-c%C3%B3mo-empezar-en-computer-vision-activity-7416166300378693636-3DJ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENkIcBexIrWjf9lTclq4LlEYbfXQrWl4Y">
+    <img src="https://res.cloudinary.com/ddcb3fk7s/image/upload/v1769817057/Papelito_2_C%C3%B3mo_iniciar_con_la_visi%C3%B3n_por_computadora_kuedfi.png" width="30%" alt="Papelito 2"/>
+  </a>
+  <a href="https://www.linkedin.com/posts/william-jes%C3%BAs-valencia-macalup%C3%BA-a33615265_papelito-3-el-protagonista-de-las-cnn-activity-7418695650097131520-1MR9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENkIcBexIrWjf9lTclq4LlEYbfXQrWl4Y">
+    <img src="https://res.cloudinary.com/ddcb3fk7s/image/upload/v1769817090/Copia_de_Dise%C3%B1o_sin_t%C3%ADtulo_aotgwk.png" width="30%" alt="Papelito 3"/>
+  </a>
+</div>
+
+
+## 💻 Tech Stack:
+
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Deep Learning Tools
+### Deep Learning Tools
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -25,7 +40,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-## Web Development Framework
+### Web Development Framework
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
