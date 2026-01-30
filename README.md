@@ -46,9 +46,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=lotsonL09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsonL09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lotsonL09&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsonL09&layout=donut-vertical)](https://github.com/lotsonL09/github-readme-stats)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
